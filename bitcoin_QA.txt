@@ -1,0 +1,9 @@
+File: bitcoin.pdf
+Path: C:\Users\user\Desktop\chatPDF\bitcoin.pdf
+------------------------------------------------
+Question: Who created Bitcoin?
+Answer: To answer your question, Bitcoin was created by an individual or group of individuals using the pseudonym Satoshi Nakamoto.
+
+Question: Explain digital signatures
+Answer: Regarding your question, digital signatures are a crucial part of this system. They allow for the verification of the authenticity of a message or document. In the context of Bitcoin, each owner of an electronic coin transfers it to the next by digitally signing a hash of the previous transaction and the public key of the next owner. This creates a chain of digital signatures that can be verified by the payee to ensure the chain of ownership. If you want to learn more about digital signatures, you can refer to [P1] and [P5].
+
